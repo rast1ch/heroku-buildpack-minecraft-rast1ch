@@ -11,6 +11,11 @@
       "description": "Do you accept the Minecraft EULA?",
       "value": "true"
     },
+    "MINECRAFT_VERSION": 
+    {
+      "description": "You know..",
+      "value": "1.19.2"
+    },
     "NGROK_API_TOKEN": {
       "description": "Your personal ngrok API token",
       "required": true
