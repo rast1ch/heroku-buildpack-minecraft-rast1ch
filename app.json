@@ -37,6 +37,9 @@
     },
     {
       "url": "heroku-community/inline"
+    },
+    {
+      "url": "heroku/ruby"
     }
   ]
 }
